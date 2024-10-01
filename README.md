@@ -4,7 +4,7 @@
 <h3 align="center">I am a IOS Developer and UX Designer</h3>
 
 
-- 🔭 IOS Developer **6 years**<br>
+- 👨‍💻 IOS Developer **6 years**<br>
 **ex-apple developer academy|Mackenzie, ex-itau, ex- Jhonsons and Jhonsons**
 
 - 👨‍💻 UX Designer **currently in college**
