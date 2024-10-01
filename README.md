@@ -1,4 +1,4 @@
-<h1 align="center">Hello my name is Iago Salomon</h1>
+<h1 align="center">Hello, my name is Iago Salomon</h1>
 <h3 align="center">I am a IOS Developer and UX Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iagosalomon&label=Profile%20views&color=0e75b6&style=flat" alt="iagosalomon" /> </p>
@@ -7,8 +7,6 @@
 **ex-apple developer academy|Mackenzie, ex-itau, ex- Jhonsons and Jhonsons**
 
 - 👨‍💻 UX Designer **currently in college**
-
-- 📄 Chek out my Linkedin [https://www.linkedin.com/in/iagosalomon/](https://www.linkedin.com/in/iagosalomon/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
