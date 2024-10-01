@@ -1,7 +1,8 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iagosalomon&label=Profile%20views&color=0e75b6&style=flat" alt="iagosalomon" /> </p>
+
 <h1 align="center">Hello, my name is Iago Salomon</h1>
 <h3 align="center">I am a IOS Developer and UX Designer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iagosalomon&label=Profile%20views&color=0e75b6&style=flat" alt="iagosalomon" /> </p>
 
 - 🔭 IOS Developer **6 years**<br>
 **ex-apple developer academy|Mackenzie, ex-itau, ex- Jhonsons and Jhonsons**
