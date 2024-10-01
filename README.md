@@ -3,17 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iagosalomon&label=Profile%20views&color=0e75b6&style=flat" alt="iagosalomon" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iagosalomon" alt="iagosalomon" /></a> </p>
-
 - 🔭 IOS Developer **6 years**
+**ex-apple developer academy|Mackenzie, ex-itau, ex- Jhonsons and Jhonsons**
 
-- 👨‍💻 UX Designer [Currently in College](Currently in College)
+- 👨‍💻 UX Designer **currently in college**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/iagosalomon/](https://www.linkedin.com/in/iagosalomon/)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 📄 Chek out my Linkedin [https://www.linkedin.com/in/iagosalomon/](https://www.linkedin.com/in/iagosalomon/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
